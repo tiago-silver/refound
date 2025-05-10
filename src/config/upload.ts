@@ -27,7 +27,7 @@ const MULTER = {
     }),
 }
 
-export {
+export default{
     TMP_FOLDER,
     UPLOADS_FOLDER,
     MULTER,
